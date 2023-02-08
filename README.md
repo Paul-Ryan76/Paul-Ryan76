@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Paul-Ryan
-- 👀 I’m interested in helping data protection professiionals to demonstrate GDPR compliance  
-- - 🌱 I’m currently completeing a PhD in Dublin City University , in assocaitaaion with the Adapt Reserach Centre.    
-- 💞️ I’m looking to collaborate on Seamnaatic web based solutions for GDPR compliance 
+- 👀 I’m interested in helping data protection professionals to demonstrate GDPR compliance  
+- - 🌱 I’m currently completeing a PhD in Dublin City University , in association with the Adapt Reserach Centre.    
+- 💞️ I’m looking to collaborate on Seamnatic web based solutions for GDPR compliance 
 - 📫 How to reach me - paul.ryan76@mail.dcu.ie
 
 <!---
